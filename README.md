@@ -1,4 +1,4 @@
-# 🚀 CommanderGQL — Upgrade Notes (.NET 5 → .NET 8)
+# 🚀 CommanderGQL - Upgrade Notes (.NET 5 → .NET 8)
 
 This project was built following the tutorial
 **[GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)** by **Les Jackson**.
@@ -7,7 +7,7 @@ The original tutorial targets **.NET 5** and **Hot Chocolate v11/v12**. To run t
 
 ## 📑 Table of Contents
 
-- [🚀 CommanderGQL — Upgrade Notes (.NET 5 → .NET 8)](#-commandergql--upgrade-notes-net-5--net-8)
+- [🚀 CommanderGQL - Upgrade Notes (.NET 5 → .NET 8)](#-commandergql--upgrade-notes-net-5--net-8)
   - [📑 Table of Contents](#-table-of-contents)
   - [1. Project Setup \& CLI Tools](#1-project-setup--cli-tools)
   - [2. DbContext Registration (`Program.cs`)](#2-dbcontext-registration-programcs)
